@@ -1,0 +1,18 @@
+/**
+* Theme Name:  Zoo Eduhub
+* Theme URI:   http://zoo-eduhub.wp1.zoo-eduhub.com
+* Author:      Zootemplate
+* Version:     2.0
+* Author URI:  https://zoo-eduhub.com
+* License:     GNU General Public License v2 or later
+* License URI: http://www.gnu.org/licenses/gpl-2.0.html
+* Description: Zoo Eduhub includes built in photo proofing galleries and variety of portfolio showcase functions.
+Its optimized for creating WooCommerce online stores that provides a super fast interface for the ultimate user experience.
+* Text Domain: zoo-eduhub
+* Domain Path: /languages
+**/
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
