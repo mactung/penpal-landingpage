@@ -11,8 +11,8 @@
                         <div class="wpb_wrapper">
                             <div class="wpb_text_column wpb_content_element  vc_custom_1490554151872">
                                 <div class="wpb_wrapper">
-                                    <h1>Chúng tôi là <span class="color">CLB Penpal</span></h1>
-                                    <p>CÂU LẠC BỘ PENPAL, mô hình luyện tập giao tiếp của EV, tạo môi trường thực hành ngôn ngữ tối ưu cho học viên, rèn năng lực biểu đạt tốt và phát âm chuẩn giọng Anh/Mỹ.</p>
+                                    <h1>Chúng tôi là <span class="color">CLB Penpal English</span></h1>
+                                    <p>Mô hình học tập Tiếng Anh giao tiếp trực thuộc trường học Anh Quốc EV Academy. Tạo nền tảng cho con từng bước trở thành công dân toàn cầu với các CLB rèn luyện giao tiếp với người Anh (6 - 15 tuổi).</p>
 
                                     <!-- <a class="btn read-more" href="#">Get started Now</a> -->
 
@@ -123,181 +123,54 @@
                 </div>
             </div>
             <div class="vc_row-full-width vc_clearfix"></div>
-            <div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid baby-activities vc_custom_1490862845800 vc_row-has-fill">
-                <div class="wpb_column vc_column_container vc_col-sm-12">
+            <div class="vc_row wpb_row vc_row-fluid about-intro vc_custom_1490553933902">
+                <div class="wpb_column vc_column_container vc_col-sm-6">
                     <div class="vc_column-inner">
                         <div class="wpb_wrapper">
-                            <div class="wpb_text_column wpb_content_element  vc_custom_1490782098786">
-                                <div class="wpb_wrapper">
-                                    <h3 class="section-heading"><span class="title">Những hoạt động của PENPAL</span></h3>
+                            <div class="wpb_single_image wpb_content_element vc_align_left">
 
-                                </div>
-                            </div>
-                            <div class="vc_row wpb_row vc_inner vc_row-fluid">
-                                <div class="wpb_column vc_column_container vc_col-sm-4">
-                                    <div class="vc_column-inner vc_custom_1490413787986">
-                                        <div class="wpb_wrapper">
-                                            <div class="zoo-feature-box image-type  left-inline-style center home4-style2" style="display: table;background-color:#f9ad81;">
-                                                <div class="zoo-feature-box-inner">
-                                                    <div class="media">
-                                                        <div class="pull-left">
-                                                            <span class="feature-box-media" style="display: inline-block;background-color:#e6502e;">
-
-                                                                <img width="39" height="49" src="wp-content/uploads/2017/03/icon2-book.png" class="attachment-full size-full lazy-img" alt="" data-src="wp-content/uploads/2017/03/icon2-book.png" /> </span>
-                                                        </div>
-
-                                                        <div class="media-body">
-                                                            <h3 class="feature-box-title">
-                                                                Learn to Language </h3>
-                                                        </div>
-
-                                                    </div>
-                                                    <div class="feature-box-content">
-                                                        Eduhub is your online source for fresh. We feature object lessons, stories, skits, games, songs, and much more. </div>
-
-                                                </div>
-                                            </div>
-                                            <div class="zoo-feature-box  vc_custom_1490349704530 image-type  left-inline-style center home4-style2" style="display: table;background-color:#ff7faa;">
-                                                <div class="zoo-feature-box-inner">
-                                                    <div class="media">
-                                                        <div class="pull-left">
-                                                            <span class="feature-box-media" style="display: inline-block;background-color:#f05283;">
-
-                                                                <img width="47" height="37" src="wp-content/uploads/2017/03/icon2-baseball.png" class="attachment-full size-full lazy-img" alt="" data-src="wp-content/uploads/2017/03/icon2-baseball.png" /> </span>
-                                                        </div>
-
-                                                        <div class="media-body">
-                                                            <h3 class="feature-box-title">
-                                                                Play more Sport </h3>
-                                                        </div>
-
-                                                    </div>
-                                                    <div class="feature-box-content">
-                                                        Eduhub is your online source for fresh. We feature object lessons, stories, skits, games, songs, and much more. </div>
-
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="wpb_column vc_column_container vc_col-sm-4">
-                                    <div class="vc_column-inner vc_custom_1490413801266">
-                                        <div class="wpb_wrapper">
-                                            <div class="zoo-feature-box image-type  left-inline-style center home4-style2" style="display: table;background-color:#c4df9b;">
-                                                <div class="zoo-feature-box-inner">
-                                                    <div class="media">
-                                                        <div class="pull-left">
-                                                            <span class="feature-box-media" style="display: inline-block;background-color:#88cc00;">
-
-                                                                <img width="47" height="40" src="wp-content/uploads/2017/03/icon2-pencil.png" class="attachment-full size-full lazy-img" alt="" data-src="wp-content/uploads/2017/03/icon2-pencil.png" /> </span>
-                                                        </div>
-
-                                                        <div class="media-body">
-                                                            <h3 class="feature-box-title">
-                                                                Viết thư cho các bạn </h3>
-                                                        </div>
-
-                                                    </div>
-                                                    <div class="feature-box-content">Giao lưu văn hóa Anh Việt qua việc làm thiệp, viết thư giữa bạn bè hai nước.
-                                                    </div>
-
-                                                </div>
-                                            </div>
-                                            <div class="zoo-feature-box  vc_custom_1490349764732 image-type  left-inline-style center home4-style2" style="display: table;background-color:#8781bd;">
-                                                <div class="zoo-feature-box-inner">
-                                                    <div class="media">
-                                                        <div class="pull-left">
-                                                            <span class="feature-box-media" style="display: inline-block;background-color:#5148a8;">
-
-                                                                <img width="47" height="40" src="wp-content/uploads/2017/03/icon2-pencil.png" class="attachment-full size-full lazy-img" alt="" data-src="wp-content/uploads/2017/03/icon2-pencil.png" /> </span>
-                                                        </div>
-
-                                                        <div class="media-body">
-                                                            <h3 class="feature-box-title">
-                                                                Intellectual Games </h3>
-                                                        </div>
-
-                                                    </div>
-                                                    <div class="feature-box-content">
-                                                        Eduhub is your online source for fresh. We feature object lessons, stories, skits, games, songs, and much more. </div>
-
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="wpb_column vc_column_container vc_col-sm-4">
-                                    <div class="vc_column-inner vc_custom_1490413808865">
-                                        <div class="wpb_wrapper">
-                                            <div class="zoo-feature-box image-type  left-inline-style center home4-style2" style="display: table;background-color:#7fddff;">
-                                                <div class="zoo-feature-box-inner">
-                                                    <div class="media">
-                                                        <div class="pull-left">
-                                                            <span class="feature-box-media" style="display: inline-block;background-color:#00aeef;">
-
-                                                                <img width="45" height="43" src="wp-content/uploads/2017/03/icon2-guitar.png" class="attachment-full size-full lazy-img" alt="" data-src="wp-content/uploads/2017/03/icon2-guitar.png" /> </span>
-                                                        </div>
-
-                                                        <div class="media-body">
-                                                            <h3 class="feature-box-title">
-                                                                Learning to Musical </h3>
-                                                        </div>
-
-                                                    </div>
-                                                    <div class="feature-box-content">
-                                                        Eduhub is your online source for fresh. We feature object lessons, stories, skits, games, songs, and much more. </div>
-
-                                                </div>
-                                            </div>
-                                            <div class="zoo-feature-box  vc_custom_1490349771817 image-type  left-inline-style center home4-style2" style="display: table;background-color:#fcd04b;">
-                                                <div class="zoo-feature-box-inner">
-                                                    <div class="media">
-                                                        <div class="pull-left">
-                                                            <span class="feature-box-media" style="display: inline-block;background-color:#fc964b;">
-
-                                                                <img width="46" height="29" src="wp-content/uploads/2017/03/icon2-car.png" class="attachment-full size-full lazy-img" alt="" data-src="wp-content/uploads/2017/03/icon2-car.png" /> </span>
-                                                        </div>
-
-                                                        <div class="media-body">
-                                                            <h3 class="feature-box-title">
-                                                                Picnic Spots </h3>
-                                                        </div>
-
-                                                    </div>
-                                                    <div class="feature-box-content">
-                                                        Eduhub is your online source for fresh. We feature object lessons, stories, skits, games, songs, and much more. </div>
-
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+                                <figure class="wpb_wrapper vc_figure">
+                                    <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="520" height="560" src="wp-content/uploads/2017/03/aboutus-image-02.jpg" class="vc_single_image-img attachment-full lazy-img" alt="" srcset="wp-content/uploads/2017/03/aboutus-image-02.jpg 100w" sizes="(max-width: 520px) 100vw, 520px" data-src="wp-content/uploads/2017/03/aboutus-image-02.jpg" data-srcset="wp-content/uploads/2017/03/aboutus-image-02.jpg 520w, wp-content/uploads/2017/03/aboutus-image-02-450x485.jpg 450w, wp-content/uploads/2017/03/aboutus-image-02-279x300.jpg 279w, wp-content/uploads/2017/03/aboutus-image-02-432x465.jpg 432w, wp-content/uploads/2017/03/aboutus-image-02-371x400.jpg 371w" /></div>
+                                </figure>
                             </div>
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="vc_row-full-width vc_clearfix"></div>
-            <div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid vc_custom_1490782225037 vc_row-has-fill vc_row-no-padding">
-                <div class="wpb_column vc_column_container vc_col-sm-12">
-                    <div class="vc_column-inner vc_custom_1490339615652">
+                <div class="wpb_column vc_column_container vc_col-sm-6">
+                    <div class="vc_column-inner">
                         <div class="wpb_wrapper">
-                            <div class="wpb_text_column wpb_content_element  vc_custom_1490339628012">
+                            <div class="wpb_text_column wpb_content_element  vc_custom_1490554151872">
                                 <div class="wpb_wrapper">
+                                    <h1>Học sinh nhận được gì tại <span class="color">Penpal English?</span></h1>
+                                    <p><b>Học với giáo viên nước ngoài 100%</b><br>
+                                        Giáo viên nước ngoài giúp bạn sử dụng Tiếng Anh MỘT CÁCH TỰ NHIÊN, khả năng ứng dụng thực tiễn cao, giảm thiểu các bài học ngữ pháp khô cứng.
+                                    </p>
+                                    <p>
+                                        <b> Tương tác 1 thầy – 1 trò (Penpal 2, 3)</b><br>
+                                        Học tập trung, hiệu quả: Học viên được học cái mình cần, phù hợp với trình độ hiện tại.
+
+                                        Sửa lỗi liên tục, tiến bộ nhanh: Sửa từng lỗi nhỏ nhất cho học viên ngay khi mắc lỗi, giúp học viên tiến bộ nhanh chóng.
+
+                                        Tiết kiệm thời gian: Toàn bộ thời gian của giáo viên là dành cho bạn, không chia sẻ với bất cứ ai
+                                    </p>
+
+                                    <!-- <a class="btn read-more" href="#">Get started Now</a> -->
 
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
+
             </div>
+
             <div class="vc_row-full-width vc_clearfix"></div>
             <div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1490929508714 vc_row-has-fill">
                 <div class="wpb_column vc_column_container vc_col-sm-12">
                     <div class="vc_column-inner vc_custom_1490259726716">
                         <div class="wpb_wrapper">
                             <div id="testimonial_block_61192d337432c" class="cvca-testimonial-shortcode cvca-testimonial relative home4-testimonial  vc_custom_1490554731056 style-1 carousel-testimonial">
-                                <h2 class="title-block">Học sinh nói về Penpal</h2>
+                                <h2 class="title-block">Đội ngũ giáo viên</h2>
                                 <div class="cvca-wrapper-testimonial-block cvca-testimonial-carousel" data-config=' {&quot;item&quot;:&quot;2&quot;,&quot;pagination&quot;:&quot;true&quot;,&quot;navigation&quot;:&quot;false&quot;} '>
                                     <article id="testimonial-2796" class="cvca-testimonial-item col-xs-12 col-sm-6 post-2796 testimonial type-testimonial status-publish hentry testimonial_category-testimonial-02">
                                         <div class="cvca-testimonial-content">
@@ -310,6 +183,21 @@
                                                 <div class="cvca-wrap-author-info media-body">
                                                     <h4 class="cvca-testimonial-author">Jennifer Lopez </h4>
                                                     <div class="cvca-testimonial-des">Designer </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </article>
+                                    <article id="testimonial-2794" class="cvca-testimonial-item col-xs-12 col-sm-6 post-2794 testimonial type-testimonial status-publish hentry testimonial_category-testimonial-02">
+                                        <div class="cvca-testimonial-content">
+                                            Education is the process of facilitating learning, or the acquisition of knowledge, skills, values, beliefs, and habits. Educational methods include storytelling, discussion, teaching, training, and directed research.Lorem ipsum dolor sit amet, consectetur adipiscing elit.... </div>
+                                        <div class="cvca-wrap-author">
+                                            <div class="media">
+                                                <div class="cvca-wrap-avatar pull-left">
+                                                    <img src="wp-content/uploads/2009/05/tes-2.jpg" alt="Testimonial 5" class="avatar-circus" />
+                                                </div>
+                                                <div class="cvca-wrap-author-info media-body">
+                                                    <h4 class="cvca-testimonial-author">Jonh </h4>
+                                                    <div class="cvca-testimonial-des">Teacher </div>
                                                 </div>
                                             </div>
                                         </div>
@@ -351,76 +239,49 @@
                 </div>
             </div>
             <div class="vc_row-full-width vc_clearfix"></div>
-            <div class="vc_row wpb_row vc_row-fluid vc_custom_1490782462837">
-                <div class="wpb_column vc_column_container vc_col-sm-12">
+            <div class="vc_row wpb_row vc_row-fluid about-intro vc_custom_1490553933902">
+
+                <div class="wpb_column vc_column_container vc_col-sm-6">
                     <div class="vc_column-inner">
                         <div class="wpb_wrapper">
-                            <div class="wpb_text_column wpb_content_element ">
+                            <div class="wpb_text_column wpb_content_element  vc_custom_1490554151872">
                                 <div class="wpb_wrapper">
-                                    <h3 class="section-heading"><span class="title">Hình ảnh PENPAL</span></h3>
+                                    <h1>Tại sao chọn <span class="color">CLB Penpal English?</span></h1>
+                                    <p><b>Học online: lựa chọn đa dạng, lịch học linh hoạt, tiết kiệm thời gian di chuyển</b><br>
+                                        Tiết kiệm được 1-2 giờ thời gian di chuyển cho mỗi buổi học.
 
-                                </div>
-                            </div>
-                            <div id="shortcode_blog_61192d33760c4" class=" grid cvca-blog-shortcode  grid-xl-3-cols  grid-lg-3-cols grid-md-3-cols grid-sm-2-cols grid-2-cols">
-                                <div class="wrap-loop-content">
+                                        Có thể sắp xếp thời gian học linh hoạt, hoàn toàn có thể học vào các khung giờ tối muộn, sáng sớm hoặc buổi trưa.
+                                    </p>
+                                    <p><b>Học phí hợp lý</b><br>
+                                        Sự ra đời của internet với sứ mệnh kết nối mọi người trên toàn thế giới đã tạo cơ hội cho học viên được học với giáo viên từ khắp nơi trên thế giới với học phí vô cùng hợp lí.</p>
 
-                                    <article class="cvca-blog-item layout-item grid-layout-item  post-993 post type-post status-publish format-standard has-post-thumbnail hentry category-news category-template-2 tag-content-2 tag-css tag-formatting-2">
-                                        <div class="cvca-post-inner">
-                                            <div class="wrap-media">
-                                                <a href="basic-ui-ux-design-for-new-development/" title="Basic UI &#038; UX Design for new development">
-                                                    <img width="768" height="407" src="wp-content/uploads/2013/01/post-05.jpg" class="attachment-medium_large size-medium_large lazy-img wp-post-image" alt="" srcset="wp-content/uploads/2013/01/post-05.jpg 100w" sizes="(max-width: 768px) 100vw, 768px" data-src="wp-content/uploads/2013/01/post-05-768x407.jpg" data-srcset="wp-content/uploads/2013/01/post-05-768x407.jpg 768w, wp-content/uploads/2013/01/post-05-600x318.jpg 600w, wp-content/uploads/2013/01/post-05-300x159.jpg 300w, wp-content/uploads/2013/01/post-05.jpg 870w, wp-content/uploads/2013/01/post-05-755x400.jpg 755w" /> </a>
-                                            </div>
-                                        </div>
-                                    </article>
-                                    <article class="cvca-blog-item layout-item grid-layout-item  post-993 post type-post status-publish format-standard has-post-thumbnail hentry category-news category-template-2 tag-content-2 tag-css tag-formatting-2">
-                                        <div class="cvca-post-inner">
-                                            <div class="wrap-media">
-                                                <a href="basic-ui-ux-design-for-new-development/" title="Basic UI &#038; UX Design for new development">
-                                                    <img width="768" height="407" src="wp-content/uploads/2013/01/post-05.jpg" class="attachment-medium_large size-medium_large lazy-img wp-post-image" alt="" srcset="wp-content/uploads/2013/01/post-05.jpg 100w" sizes="(max-width: 768px) 100vw, 768px" data-src="wp-content/uploads/2013/01/post-05-768x407.jpg" data-srcset="wp-content/uploads/2013/01/post-05-768x407.jpg 768w, wp-content/uploads/2013/01/post-05-600x318.jpg 600w, wp-content/uploads/2013/01/post-05-300x159.jpg 300w, wp-content/uploads/2013/01/post-05.jpg 870w, wp-content/uploads/2013/01/post-05-755x400.jpg 755w" /> </a>
-                                            </div>
-                                        </div>
-                                    </article>
-                                    <article class="cvca-blog-item layout-item grid-layout-item  post-993 post type-post status-publish format-standard has-post-thumbnail hentry category-news category-template-2 tag-content-2 tag-css tag-formatting-2">
-                                        <div class="cvca-post-inner">
-                                            <div class="wrap-media">
-                                                <a href="basic-ui-ux-design-for-new-development/" title="Basic UI &#038; UX Design for new development">
-                                                    <img width="768" height="407" src="wp-content/uploads/2013/01/post-05.jpg" class="attachment-medium_large size-medium_large lazy-img wp-post-image" alt="" srcset="wp-content/uploads/2013/01/post-05.jpg 100w" sizes="(max-width: 768px) 100vw, 768px" data-src="wp-content/uploads/2013/01/post-05-768x407.jpg" data-srcset="wp-content/uploads/2013/01/post-05-768x407.jpg 768w, wp-content/uploads/2013/01/post-05-600x318.jpg 600w, wp-content/uploads/2013/01/post-05-300x159.jpg 300w, wp-content/uploads/2013/01/post-05.jpg 870w, wp-content/uploads/2013/01/post-05-755x400.jpg 755w" /> </a>
-                                            </div>
-                                        </div>
-                                    </article>
-                                    <article class="cvca-blog-item layout-item grid-layout-item  post-993 post type-post status-publish format-standard has-post-thumbnail hentry category-news category-template-2 tag-content-2 tag-css tag-formatting-2">
-                                        <div class="cvca-post-inner">
-                                            <div class="wrap-media">
-                                                <a href="basic-ui-ux-design-for-new-development/" title="Basic UI &#038; UX Design for new development">
-                                                    <img width="768" height="407" src="wp-content/uploads/2013/01/post-05.jpg" class="attachment-medium_large size-medium_large lazy-img wp-post-image" alt="" srcset="wp-content/uploads/2013/01/post-05.jpg 100w" sizes="(max-width: 768px) 100vw, 768px" data-src="wp-content/uploads/2013/01/post-05-768x407.jpg" data-srcset="wp-content/uploads/2013/01/post-05-768x407.jpg 768w, wp-content/uploads/2013/01/post-05-600x318.jpg 600w, wp-content/uploads/2013/01/post-05-300x159.jpg 300w, wp-content/uploads/2013/01/post-05.jpg 870w, wp-content/uploads/2013/01/post-05-755x400.jpg 755w" /> </a>
-                                            </div>
-                                        </div>
-                                    </article>
-                                    <article class="cvca-blog-item layout-item grid-layout-item  post-993 post type-post status-publish format-standard has-post-thumbnail hentry category-news category-template-2 tag-content-2 tag-css tag-formatting-2">
-                                        <div class="cvca-post-inner">
-                                            <div class="wrap-media">
-                                                <a href="basic-ui-ux-design-for-new-development/" title="Basic UI &#038; UX Design for new development">
-                                                    <img width="768" height="407" src="wp-content/uploads/2013/01/post-05.jpg" class="attachment-medium_large size-medium_large lazy-img wp-post-image" alt="" srcset="wp-content/uploads/2013/01/post-05.jpg 100w" sizes="(max-width: 768px) 100vw, 768px" data-src="wp-content/uploads/2013/01/post-05-768x407.jpg" data-srcset="wp-content/uploads/2013/01/post-05-768x407.jpg 768w, wp-content/uploads/2013/01/post-05-600x318.jpg 600w, wp-content/uploads/2013/01/post-05-300x159.jpg 300w, wp-content/uploads/2013/01/post-05.jpg 870w, wp-content/uploads/2013/01/post-05-755x400.jpg 755w" /> </a>
-                                            </div>
-                                        </div>
-                                    </article>
-                                    <article class="cvca-blog-item layout-item grid-layout-item  post-993 post type-post status-publish format-standard has-post-thumbnail hentry category-news category-template-2 tag-content-2 tag-css tag-formatting-2">
-                                        <div class="cvca-post-inner">
-                                            <div class="wrap-media">
-                                                <a href="basic-ui-ux-design-for-new-development/" title="Basic UI &#038; UX Design for new development">
-                                                    <img width="768" height="407" src="wp-content/uploads/2013/01/post-05.jpg" class="attachment-medium_large size-medium_large lazy-img wp-post-image" alt="" srcset="wp-content/uploads/2013/01/post-05.jpg 100w" sizes="(max-width: 768px) 100vw, 768px" data-src="wp-content/uploads/2013/01/post-05-768x407.jpg" data-srcset="wp-content/uploads/2013/01/post-05-768x407.jpg 768w, wp-content/uploads/2013/01/post-05-600x318.jpg 600w, wp-content/uploads/2013/01/post-05-300x159.jpg 300w, wp-content/uploads/2013/01/post-05.jpg 870w, wp-content/uploads/2013/01/post-05-755x400.jpg 755w" /> </a>
-                                            </div>
-                                        </div>
-                                    </article>
+                                    <p><b>Miễn phí 100% tài liệu</b><br>
+                                        Không cần phải mua tài liệu đắt tiền, bạn được giáo viên chuẩn bị toàn bộ tài liệu online và MIỄN PHÍ.
+                                    </p>
+
+
+                                    <!-- <a class="btn read-more" href="#">Get started Now</a> -->
 
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
+                <div class="wpb_column vc_column_container vc_col-sm-6">
+                    <div class="vc_column-inner">
+                        <div class="wpb_wrapper">
+                            <div class="wpb_single_image wpb_content_element vc_align_left">
+
+                                <figure class="wpb_wrapper vc_figure">
+                                    <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="520" height="560" src="wp-content/uploads/2017/03/aboutus-image-02.jpg" class="vc_single_image-img attachment-full lazy-img" alt="" srcset="wp-content/uploads/2017/03/aboutus-image-02.jpg 100w" sizes="(max-width: 520px) 100vw, 520px" data-src="wp-content/uploads/2017/03/aboutus-image-02.jpg" data-srcset="wp-content/uploads/2017/03/aboutus-image-02.jpg 520w, wp-content/uploads/2017/03/aboutus-image-02-450x485.jpg 450w, wp-content/uploads/2017/03/aboutus-image-02-279x300.jpg 279w, wp-content/uploads/2017/03/aboutus-image-02-432x465.jpg 432w, wp-content/uploads/2017/03/aboutus-image-02-371x400.jpg 371w" /></div>
+                                </figure>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
             </div>
+            <div class="clear-fix"></div>
         </div>
-        <div class="clear-fix"></div>
-    </div>
 </main>
 <?php include './footer.php' ?>
