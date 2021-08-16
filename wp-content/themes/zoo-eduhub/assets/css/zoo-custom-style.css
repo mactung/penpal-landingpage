@@ -7158,11 +7158,11 @@ div.cvca-blog-shortcode {
 
 /* line 1575, E:/wamp64/www/wp/eduhub-new/wp-content/themes/zoo-eduhub/assets/scss/custom/theme/_c-theme.scss */
 .widget_newsletterwidget .tnp-widget .tnp-field.tnp-field-button {
-  position: absolute;
+  /* position: absolute;
   top: 0;
   bottom: 0;
-  right: 0;
-  width: 130px;
+  right: 0; */
+  width: 100%;
   margin: 0;
 }
 
@@ -7180,6 +7180,7 @@ div.cvca-blog-shortcode {
 /* line 1591, E:/wamp64/www/wp/eduhub-new/wp-content/themes/zoo-eduhub/assets/scss/custom/theme/_c-theme.scss */
 .widget_newsletterwidget .tnp-widget input[type=text],
 .widget_newsletterwidget .tnp-widget input[type=email],
+.widget_newsletterwidget .tnp-widget input[type=tel],
 .widget_newsletterwidget .tnp-widget select {
   padding: 15px 10px;
   border-color: #ebebeb;

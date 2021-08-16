@@ -1,29 +1,5 @@
 <footer id="site-footer" class="site-footer footer">
-    <div id="top-footer" class="footer-row footer-top full-width-contained footer-preset-default">
-        <div class="container">
-            <div class="wrap-builder-items">
-                <div class="row">
-                    <div class="col-md-12 builder-item builder-block-footer-widget-1">
-                        <div class="builder-widget-element widget-area">
-                            <section id="newsletterwidget-3" class="widget widget_newsletterwidget">
-                                <h4 class="widget-title">NEWSLETTER</h4>Subscribe Eduhub to receive useful information<div class="tnp tnp-widget">
-                                    <form method="post" action="?na=s" onsubmit="return newsletter_check(this)">
-
-                                        <input type="hidden" name="nlang" value="">
-                                        <input type="hidden" name="nr" value="widget">
-                                        <input type='hidden' name='nl[]' value='0'>
-                                        <div class="tnp-field tnp-field-email"><label>Email</label><input class="tnp-email" type="email" name="ne" required></div>
-                                        <div class="tnp-field tnp-field-button"><input class="tnp-submit" type="submit" value="Subscribe">
-                                        </div>
-                                    </form>
-                                </div>
-                            </section>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+    <?php include 'inc/top-footer.php' ?>
     <div id="main-footer" class="footer-row footer-main full-width-contained footer-preset-default">
         <div class="container">
             <div class="wrap-builder-items">
@@ -31,11 +7,10 @@
                     <div class="col-md-4 col-12 builder-item builder-block-footer-widget-2">
                         <div class="builder-widget-element widget-area">
                             <section id="custom_html-2" class="widget_text widget widget_custom_html">
-                                <h4 class="widget-title">Contact Info</h4>
+                                <h4 class="widget-title">Thông tin liên lạc</h4>
                                 <div class="textwidget custom-html-widget">
                                     <p>
-                                        We are Educations, create your passion and <br>
-                                        hope success will come for your dream.<br> Please send email and get latest news
+                                        
                                     </p><br>
                                     <span style="line-height: 35px;"><i class="cs-font  clever-icon-web-home" style="color:#7fbf00"></i>&#160;&#160;&#160;169 Nguyen Ngoc Vũ Str, Cau Giay, Ha Noi.</span><br>
                                     <span style="line-height: 35px;"><i class="cs-font  clever-icon-phone-1" style="color:#7fbf00"></i>&#160;&#160;&#160;(0044) 8657 666 999</span><br>
@@ -44,33 +19,16 @@
                             </section>
                         </div>
                     </div>
-                    <div class="col-md-2 col-12 builder-item builder-block-footer-widget-3">
-                        <div class="builder-widget-element widget-area">
-                            <section id="nav_menu-2" class="widget widget_nav_menu">
-                                <h4 class="widget-title">Infomation</h4>
-                                <div class="menu-information-container">
-                                    <ul id="menu-information" class="menu">
-                                        <li id="menu-item-1768" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1768"><a href="#">Policy &#038; Support</a></li>
-                                        <li id="menu-item-1769" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1769"><a href="#">Scholarship Program</a></li>
-                                        <li id="menu-item-1770" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1770"><a href="#">Career Opportunities</a></li>
-                                        <li id="menu-item-1771" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1771"><a href="#">Student Affairs</a></li>
-                                        <li id="menu-item-1772" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1772"><a href="#">Conference &#038; Event</a></li>
-                                    </ul>
-                                </div>
-                            </section>
-                        </div>
-                    </div>
-                    <div class="col-md-2 col-12 builder-item builder-block-footer-widget-4">
+                    <div class="col-md-4 col-12 builder-item builder-block-footer-widget-4">
                         <div class="builder-widget-element widget-area">
                             <section id="nav_menu-3" class="widget widget_nav_menu">
-                                <h4 class="widget-title">Our Course</h4>
+                                <h4 class="widget-title">Chương trình học</h4>
                                 <div class="menu-our-courses-container">
                                     <ul id="menu-our-courses" class="menu">
-                                        <li id="menu-item-1773" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1773"><a href="#">Web design</a></li>
-                                        <li id="menu-item-1774" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1774"><a href="#">Android Developer</a></li>
-                                        <li id="menu-item-1775" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1775"><a href="#">PHP Tranning</a></li>
-                                        <li id="menu-item-1776" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1776"><a href="#">IOS Developer</a></li>
-                                        <li id="menu-item-1777" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1777"><a href="#">App Design Package</a></li>
+                                        <li id="menu-item-1773" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1773"><a href="#">Penpal 1</a></li>
+                                        <li id="menu-item-1774" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1774"><a href="#">Penpal 2</a></li>
+                                        <li id="menu-item-1775" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1775"><a href="#">Penpal 3</a></li>
+                                        
                                     </ul>
                                 </div>
                             </section>
@@ -79,7 +37,8 @@
                     <div class="col-md-3 col-12 offset-md-1 builder-item builder-block-footer-widget-5">
                         <div class="builder-widget-element widget-area">
                             <section id="null-instagram-feed-4" class="widget null-instagram-feed">
-                                <h4 class="widget-title">Instagram</h4>Instagram has returned invalid data.
+                                <h4 class="widget-title">Facebook</h4>
+
                             </section>
                         </div>
                     </div>
@@ -92,10 +51,10 @@
             <div class="wrap-builder-items">
                 <div class="row">
                     <div class="col-md-6 col-12 builder-item builder-block-footer_copyright">
-                        <div class="builder-footer-copyright-item footer-copyright">Copyright &#169; 2021 Eduhud by <a href="http://zootemplate.com/">ZooTemplate<a></div>
+                        <div class="builder-footer-copyright-item footer-copyright">Copyright &#169; 2021 Penpal by <a href="/">M.A.C Studio<a></div>
                     </div>
                     <div class="col-md-6 col-12 builder-item builder-block-footer-widget-6">
-                        <div class="builder-widget-element widget-area">
+                        <!-- <div class="builder-widget-element widget-area">
                             <section id="zoosocialwidget-2" class="widget ZooSocialWidget">
                                 <ul class="zoo-widget-social-icon icon clearfix">
                                     <li><a href="#" target="_blank" title="Facebook" class="icon-social-facebook social-icon"><i class="zoo-icon-facebook"></i> </a></li>
@@ -105,7 +64,7 @@
                                     <li><a href="#" target="_blank" title="Skype" class="icon-social-skype social-icon"><i class="zoo-icon-skype"></i> </a></li>
                                 </ul>
                             </section>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
@@ -337,6 +296,52 @@
 <script type='text/javascript' src='wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.0.5'></script>
 <script type='text/javascript' src='wp-content/plugins/clever-vc-addon/assets/vendor/slick/slick.min.js?ver=1.6.0'></script>
 <script type='text/javascript' src='wp-content/plugins/clever-vc-addon/assets/js/cvca-script.min.js?ver=1.0.4'></script>
+<script>
+    jQuery(function($) {
+        // :: 15.0 CONTACT FORM ACTIVE CODE
+        // Get the form.
+        var form = $('#contact-form');
+        // Get the messages div.
+        var formMessages = $('.form-message');
+        // Set up an event listener for the contact form.
+        $(form).submit(function(e) {
+            // Stop the browser from submitting the form.
+            e.preventDefault();
+            // Serialize the form data.
+            var formData = $(form).serialize();
+            // Submit the form using AJAX.
+            $.ajax({
+                    type: 'POST',
+                    url: $(form).attr('action'),
+                    data: formData
+                })
+                .done(function(response) {
+                    // Make sure that the formMessages div has the 'success' class.
+                    $(formMessages).removeClass('error');
+                    $(formMessages).addClass('success');
+                    $(formMessages).addClass('text-success');
+
+                    // Set the message text.
+                    $(formMessages).text(response);
+
+                    // Clear the form.
+                    $('#contact-form input').val('');
+                })
+                .fail(function(data) {
+                    // Make sure that the formMessages div has the 'error' class.
+                    $(formMessages).removeClass('success');
+                    $(formMessages).addClass('error');
+
+                    // Set the message text.
+                    if (data.responseText !== '') {
+                        $(formMessages).text(data.responseText);
+                    } else {
+                        $(formMessages).text('Oops! An error occured and your message could not be sent.');
+                    }
+                });
+        });
+    })
+</script>
 </body>
 
 </html>

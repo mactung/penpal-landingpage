@@ -167,7 +167,7 @@ CUSTOM CSS RULES.
     font-size: 14px;
 }
 
-.tnp-widget input[type=text], .tnp-widget input[type=email], .tnp-widget input[type=submit], .tnp-widget select {
+.tnp-widget input[type=text], .tnp-widget input[type=email], .tnp-widget input[type=tel], .tnp-widget input[type=submit], .tnp-widget select {
     width: 100%;
     padding: 10px;
     display: block;

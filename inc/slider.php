@@ -35,7 +35,8 @@
 							</rs-layer>
 
 							-->
-                                           <rs-layer id="slider-6-slide-17-layer-5" data-type="text" data-color="rgba(255, 255, 255, 1)" data-rsp_ch="on" data-xy="x:l,l,l,c;xo:0,15px,15px,0;y:m;yo:0,0,10px,8px;" data-text="w:normal;s:18,18,16,14;l:30,30,30,24;fw:300,300,400,400;a:left,left,left,center;" data-dim="w:480px,480px,662px,400px;" data-frame_0="y:100%;tp:600;" data-frame_0_mask="u:t;y:100%;" data-frame_1="tp:600;e:Power4.easeInOut;st:500;sp:2000;sR:500;" data-frame_1_mask="u:t;" data-frame_999="y:-100%;tp:600;e:Power2.easeInOut;st:8300;sp:1000;sR:5800;" data-frame_999_mask="u:t;" style="z-index:8;font-family:Open Sans;">Tạo môi trường thực hành ngôn ngữ tối ưu cho thành viên, rèn năng lực biểu đạt tốt và phát âm chuẩn giọng Anh/Mỹ.
+                                           <rs-layer id="slider-6-slide-17-layer-5" data-type="text" data-color="rgba(255, 255, 255, 1)" data-rsp_ch="on" data-xy="x:l,l,l,c;xo:0,15px,15px,0;y:m;yo:0,0,10px,8px;" data-text="w:normal;s:18,18,16,14;l:30,30,30,24;fw:300,300,400,400;a:left,left,left,center;" data-dim="w:480px,480px,662px,400px;" data-frame_0="y:100%;tp:600;" data-frame_0_mask="u:t;y:100%;" data-frame_1="tp:600;e:Power4.easeInOut;st:500;sp:2000;sR:500;" data-frame_1_mask="u:t;" data-frame_999="y:-100%;tp:600;e:Power2.easeInOut;st:8300;sp:1000;sR:5800;" data-frame_999_mask="u:t;" style="z-index:8;font-family:Open Sans;">
+                                               Đón thầy về nhà - Tăng tốc cùng con
                                            </rs-layer>
                                            <!--
 -->
