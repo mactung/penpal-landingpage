@@ -129,7 +129,7 @@
                         <div class="wpb_wrapper">
                             <div class="wpb_text_column wpb_content_element  vc_custom_1490782098786">
                                 <div class="wpb_wrapper">
-                                    <h3 class="section-heading"><span class="title">Những hoạt động của CLB</span></h3>
+                                    <h3 class="section-heading"><span class="title">Những hoạt động của PENPAL</span></h3>
 
                                 </div>
                             </div>
@@ -297,7 +297,7 @@
                     <div class="vc_column-inner vc_custom_1490259726716">
                         <div class="wpb_wrapper">
                             <div id="testimonial_block_61192d337432c" class="cvca-testimonial-shortcode cvca-testimonial relative home4-testimonial  vc_custom_1490554731056 style-1 carousel-testimonial">
-                                <h2 class="title-block">Testimonial</h2>
+                                <h2 class="title-block">Học sinh nói về Penpal</h2>
                                 <div class="cvca-wrapper-testimonial-block cvca-testimonial-carousel" data-config=' {&quot;item&quot;:&quot;2&quot;,&quot;pagination&quot;:&quot;true&quot;,&quot;navigation&quot;:&quot;false&quot;} '>
                                     <article id="testimonial-2796" class="cvca-testimonial-item col-xs-12 col-sm-6 post-2796 testimonial type-testimonial status-publish hentry testimonial_category-testimonial-02">
                                         <div class="cvca-testimonial-content">
@@ -357,7 +357,7 @@
                         <div class="wpb_wrapper">
                             <div class="wpb_text_column wpb_content_element ">
                                 <div class="wpb_wrapper">
-                                    <h3 class="section-heading"><span class="title">Hình ảnh CLB</span></h3>
+                                    <h3 class="section-heading"><span class="title">Hình ảnh PENPAL</span></h3>
 
                                 </div>
                             </div>
